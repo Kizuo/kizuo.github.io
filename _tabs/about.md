@@ -8,5 +8,5 @@ I don’t know if you have heard of me before, as I am not that popular. But I d
 
 This blog will mainly focus on… random stuff! Yep, you heard that right! I am going to post whatever I feel like on here, and you can’t do **anything** about it! Yay!
 
-Alright, now go read the actual blog.
+Alright, now go read the actual blog. Please?
 
