@@ -1,0 +1,14 @@
+hello. here is the boilerplate for my posts, just copy and paste into a .yml file inside the _posts folder and change the date, the title, and pretty much everything else to fit the post
+post creation docs: https://chirpy.cotes.page/posts/write-a-new-post/
+
+
+---
+title: TITLE
+date: YYYY-MM-DD HH:MM:SS -0500
+categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+tags: [TAG]     # TAG names should always be lowercase
+author: <author_id>
+comments: true
+toc: true
+---
+
